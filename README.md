@@ -11,7 +11,7 @@ _This is a repository to practice fixing indentation, spacing and HTML tag place
 ## Setup/Installation Requirements
 
 * Clone this repository.
-* Open the cookie-recipe.html file in your browser
+* Open the cookie-recipe.html file in your browser.
 
 ## Technologies Used
 
